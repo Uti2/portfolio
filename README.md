@@ -4,6 +4,7 @@ Hi! I am Ekong Utibe-obong a skilled data analyst and business analyst with a ba
 As a proficient Data Analyst, Data Scientist, and Business Analyst with expertise in Health Insurance Underwriting and Performance Analytics. 
 - I specialize in transforming data into actionable insights to drive business growth, optimize business processes through data-driven insights and develop pricing strategies in the health insurance sector. 
 - My passion for research, sports and continuous learning has fueled my dedication to delivering innovative solutions.
+  
 ## MY PORTFOLIO
 
 *A glimpse of the projects i have been working on*.
@@ -39,4 +40,17 @@ The Brazillian Houses to Rent Dataset is a very valuable resource for exploring 
 
 ## CONTACT DETAILS
 *Let's connect and see how we can make a difference*
+
+## Contact Details
+
+Feel free to reach out for collaboration or inquiries.
+
+- **Name:** Ekong Utibe-obong
+- 📧 **Email:** [prince.utibe@yahoo.com]
+- 📞 **Phone:** +234 [8133856029]
+- 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ekong-utibe-obong)
+- 🐙 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ekong-utibeobong)
+- 🌐 **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange)](your-portfolio-link.com)
+
+Let's connect and create something amazing together!
 
