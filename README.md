@@ -8,5 +8,6 @@ A glimpse of the projects i have been working on.
 https://github.com/Uti2/Japa-Project.git
 The Brazillian Houses to Rent Dataset is a very valuable resource for exploring trends and patterns in the Brazilian real estate rental market.
 **Titanic Dataset - Cleaned and Engineered for Logistic Regression**
+https://github.com/Uti2/Japa-Predictive-Class.git
 
 
