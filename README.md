@@ -10,7 +10,6 @@ As a proficient Data Analyst, Data Scientist, and Business Analyst with expertis
 *A glimpse of the projects i have been working on*.
 
 **Brazilian Houses to Rent Dataset**
-
 *https://github.com/Uti2/Japa-Project.git*
 
 The Brazillian Houses to Rent Dataset is a very valuable resource for exploring trends and patterns in the Brazilian real estate rental market.
@@ -46,9 +45,9 @@ The Brazillian Houses to Rent Dataset is a very valuable resource for exploring 
 Feel free to reach out for collaboration or inquiries.
 
 - **Name:** Ekong Utibe-obong
-- 📧 **Email:** [prince.utibe@yahoo.com]
-- 📞 **Phone:** +234 [8133856029]
-- 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ekong-utibe-obong)
+- 📧 **Email:** prince.utibe@yahoo.com
+- 📞 **Phone:** +2348133856029
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/ekongutibe)
 - 🐙 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ekong-utibeobong)
 - 🌐 **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange)](your-portfolio-link.com)
 
