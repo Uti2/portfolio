@@ -38,7 +38,7 @@ The Brazillian Houses to Rent Dataset is a very valuable resource for exploring 
 
 ![Athletic Performance Analysis Dashboard](https://github.com/user-attachments/assets/d627205b-9054-42ea-8945-0618c711dfae)
 
-**Oil Production Analysis Dashboard8** (POWER BI)
+**Oil Production Analysis Dashboard** (POWER BI)
 
 ![Oil Production Analysis Dashboard](https://github.com/user-attachments/assets/15b69f1e-fef6-4102-b1ae-290e8ff244a1)
 
