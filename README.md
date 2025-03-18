@@ -7,7 +7,7 @@ As a proficient Data Analyst, Data Scientist, and Business Analyst with expertis
   
 ## MY PORTFOLIO
 
-*A glimpse of the projects i have been working on*.
+*A glimpse of some of my completed projects on MS Excel, Power BI and Python*.
 
 **Brazilian Houses to Rent Dataset**
 
