@@ -18,25 +18,40 @@ The Brazillian Houses to Rent Dataset is a very valuable resource for exploring 
 **Titanic Dataset - Cleaned and Engineered for Logistic Regression**
 *https://github.com/Uti2/Japa-Predictive-Class.git*
 
-**HR ATTRITION DASHBOARD**
+**HR ATTRITION DASHBOARD** (MS EXCEL)
 
 ![HR Attrition Dashboard](https://github.com/user-attachments/assets/c7b72d01-5733-4f32-b385-13f6e655f8d9)
 
-**Auto Car Style Sales Dashboard**
+**Auto Car Style Sales Dashboard** (MS EXCEL)
 
 ![Car Sales Performance dashboard](https://github.com/user-attachments/assets/e4ee313a-c65b-40d5-817d-57727c7639c9)
 
-**Payroll App**
+**Payroll App** (MS EXCEL)
 
 ![Payroll Software App(6)](https://github.com/user-attachments/assets/a8a04258-df0a-4341-a094-06c40d7002b9)
 
-**Bank Churn Analysis Dashboard**
+**Bank Churn Analysis Dashboard** (MS EXCEL)
 
 ![Exited Dashboard](https://github.com/user-attachments/assets/dd61ef1a-748a-4518-a669-533158ad38dd)
 
-**Athletic Performance Analysis Dashboard**
+**Athletic Performance Analysis Dashboard** (MS EXCEL)
 
 ![Athletic Performance Analysis Dashboard](https://github.com/user-attachments/assets/d627205b-9054-42ea-8945-0618c711dfae)
+
+**Oil Production Analysis Dashboard8** (POWER BI)
+
+![Oil Production Analysis Dashboard](https://github.com/user-attachments/assets/15b69f1e-fef6-4102-b1ae-290e8ff244a1)
+
+**Financial Analysis (PROFIT & LOSS STATEMENT) Dashboard** (POWER BI)
+
+![Profit and Loss Statement 1](https://github.com/user-attachments/assets/c3cceb4f-ab13-4bf8-ae9a-9c8b0eef3d5e)
+
+![Profit and Loss Statement 2](https://github.com/user-attachments/assets/84da6824-78fb-4584-b244-68316daf8e54)
+
+
+
+
+
 
 ## CONTACT DETAILS
 *Let's connect and see how we can make a difference*
