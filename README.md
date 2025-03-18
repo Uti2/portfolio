@@ -22,7 +22,7 @@ The Brazillian Houses to Rent Dataset is a very valuable resource for exploring 
 
 ![HR Attrition Dashboard](https://github.com/user-attachments/assets/c7b72d01-5733-4f32-b385-13f6e655f8d9)
 
-**Auto Car Style Sales Dashboard** (MS EXCEL)
+**Auto Car Style Sales Dashboard** (POWER BI)
 
 ![Car Sales Performance dashboard](https://github.com/user-attachments/assets/e4ee313a-c65b-40d5-817d-57727c7639c9)
 
