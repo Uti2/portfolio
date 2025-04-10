@@ -54,6 +54,10 @@ The Brazillian Houses to Rent Dataset is a very valuable resource for exploring 
 **US Presidential Election Result Dashboard** (POWER BI)
 ![US Presdential Result Dashboard 1](https://github.com/user-attachments/assets/2f2ebb80-e3f0-4e41-8acb-fb9d10aaec15)
 
+**Underwood Properties Sales Dashboard** (MS EXCEL)
+![Underwood Properties Dashboard](https://github.com/user-attachments/assets/a8e30689-f11e-4b2b-8ea1-4ab1cf4fda5d)
+
+
 
 
 
