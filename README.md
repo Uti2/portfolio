@@ -48,6 +48,13 @@ The Brazillian Houses to Rent Dataset is a very valuable resource for exploring 
 
 ![Profit and Loss Statement 2](https://github.com/user-attachments/assets/84da6824-78fb-4584-b244-68316daf8e54)
 
+**Hospital Operation Dashboard** (POWER BI)
+![Hospital Dashboard 2](https://github.com/user-attachments/assets/f4abcb5b-c34e-436e-b311-32c425519319)
+
+**US Presidential Election Result Dashboard** (POWER BI)
+![US Presdential Result Dashboard 1](https://github.com/user-attachments/assets/2f2ebb80-e3f0-4e41-8acb-fb9d10aaec15)
+
+
 
 
 
