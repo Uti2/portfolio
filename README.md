@@ -59,7 +59,7 @@ The Brazillian Houses to Rent Dataset is a very valuable resource for exploring 
 
 **Youth Initiatives Dashboard** (POWER BI) 
 
-!https://yid.fmyd.gov.ng/dashboard-test/
+https://yid.fmyd.gov.ng/dashboard-test/
 
 ![Youth Initiatives Dashboard](https://github.com/user-attachments/assets/620f8e21-ba9d-4c0d-8b34-0ef3c10f7b89)
 
