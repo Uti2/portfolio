@@ -57,6 +57,13 @@ The Brazillian Houses to Rent Dataset is a very valuable resource for exploring 
 **Underwood Properties Sales Dashboard** (MS EXCEL)
 ![Underwood Properties Dashboard](https://github.com/user-attachments/assets/a8e30689-f11e-4b2b-8ea1-4ab1cf4fda5d)
 
+**Youth Initiatives Dashboard** (POWER BI) 
+
+https://yid.fmyd.gov.ng/dashboard-test/
+
+![Youth Initiatives Dashboard](https://github.com/user-attachments/assets/620f8e21-ba9d-4c0d-8b34-0ef3c10f7b89)
+
+
 
 
 
