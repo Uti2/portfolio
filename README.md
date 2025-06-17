@@ -63,6 +63,21 @@ https://yid.fmyd.gov.ng/dashboard-test/
 
 ![Youth Initiatives Dashboard](https://github.com/user-attachments/assets/620f8e21-ba9d-4c0d-8b34-0ef3c10f7b89)
 
+**AdSales SQL Queries** (SQL)
+![WhatsApp Image 2025-06-09 at 15 55 52](https://github.com/user-attachments/assets/707b6b09-f238-4957-8fa1-7940f1ac6ffe)
+
+**AdSales Dashboard** (Tableau)
+![WhatsApp Image 2025-06-09 at 15 55 54](https://github.com/user-attachments/assets/0ae45c2c-3ac5-416b-9f4e-f1f47fc10f8f)
+
+**AJSMart Sales SQL Queries** (SQL)
+![WhatsApp Image 2025-06-12 at 22 22 09](https://github.com/user-attachments/assets/e7397284-632a-4dc1-b666-1d3cdc639938)
+
+**AJSMart Sales Dashboard** (Tableau)
+![WhatsApp Image 2025-06-12 at 22 23 05](https://github.com/user-attachments/assets/a6559a5d-cfa1-412e-afe3-ecdb6ee34f7b)
+
+
+
+
 
 
 
