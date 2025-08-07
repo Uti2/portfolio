@@ -75,6 +75,10 @@ https://yid.fmyd.gov.ng/dashboard-test/
 
 **AJSMart Sales Dashboard** (Tableau)
 ![WhatsApp Image 2025-06-12 at 22 23 05](https://github.com/user-attachments/assets/a6559a5d-cfa1-412e-afe3-ecdb6ee34f7b)
+**Sport Sales Performance Analysis** (Power BI)
+<img width="975" height="565" alt="image" src="https://github.com/user-attachments/assets/a1da1208-86b0-4f41-8c69-f2cb2a477416" />
+
+
 
 
 
