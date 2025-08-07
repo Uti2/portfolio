@@ -7,7 +7,7 @@ As a proficient Data Analyst, Data Scientist, and Health Analyst with expertise 
   
 ## MY PORTFOLIO
 
-*A glimpse of some of my completed projects on MS Excel, Power BI and Python*.
+*A glimpse of some of my completed projects on MS Excel, Power BI, SQL, Tableau and Python*.
 
 **Brazilian Houses to Rent Dataset**
 
@@ -76,7 +76,17 @@ https://yid.fmyd.gov.ng/dashboard-test/
 **AJSMart Sales Dashboard** (Tableau)
 ![WhatsApp Image 2025-06-12 at 22 23 05](https://github.com/user-attachments/assets/a6559a5d-cfa1-412e-afe3-ecdb6ee34f7b)
 **Sport Sales Performance Analysis** (Power BI)
-<img width="975" height="565" alt="image" src="https://github.com/user-attachments/assets/a1da1208-86b0-4f41-8c69-f2cb2a477416" />
+<img width="880" height="507" alt="Sport Sales Performance Analysis Dashboard 1 " src="https://github.com/user-attachments/assets/8c6f7441-8761-4141-9732-15f0a0ccc9b5" />
+<img width="880" height="508" alt="Sport Sales Performance Analysis Dashboard 2 " src="https://github.com/user-attachments/assets/95e0fc52-ce46-4e7b-93dd-1e3cb340d7c2" />
+<img width="891" height="508" alt="Sport Sales Performance Analysis Dashboard 3 " src="https://github.com/user-attachments/assets/299278b7-6b49-4358-8946-10ae12da5112" />
+**Variance Analysis Dashboard**
+<img width="916" height="508" alt="Variance Analysis Dashboard 1" src="https://github.com/user-attachments/assets/e1bf18ca-4d54-4c1b-a64d-85634d220601" />
+<img width="918" height="513" alt="Variance Analysis Dashboard 2" src="https://github.com/user-attachments/assets/54fa9a18-5e06-40a9-8336-833b6c96ca2d" />
+
+
+
+
+
 
 
 
