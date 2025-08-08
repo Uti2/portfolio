@@ -75,13 +75,17 @@ https://yid.fmyd.gov.ng/dashboard-test/
 
 **AJSMart Sales Dashboard** (Tableau)
 ![WhatsApp Image 2025-06-12 at 22 23 05](https://github.com/user-attachments/assets/a6559a5d-cfa1-412e-afe3-ecdb6ee34f7b)
-**Sport Sales Performance Analysis** (Power BI)
-<img width="880" height="507" alt="Sport Sales Performance Analysis Dashboard 1 " src="https://github.com/user-attachments/assets/8c6f7441-8761-4141-9732-15f0a0ccc9b5" />
-<img width="880" height="508" alt="Sport Sales Performance Analysis Dashboard 2 " src="https://github.com/user-attachments/assets/95e0fc52-ce46-4e7b-93dd-1e3cb340d7c2" />
-<img width="891" height="508" alt="Sport Sales Performance Analysis Dashboard 3 " src="https://github.com/user-attachments/assets/299278b7-6b49-4358-8946-10ae12da5112" />
-**Variance Analysis Dashboard**
-<img width="916" height="508" alt="Variance Analysis Dashboard 1" src="https://github.com/user-attachments/assets/e1bf18ca-4d54-4c1b-a64d-85634d220601" />
-<img width="918" height="513" alt="Variance Analysis Dashboard 2" src="https://github.com/user-attachments/assets/54fa9a18-5e06-40a9-8336-833b6c96ca2d" />
+
+**Sport Sales Performance Analysis Dashboard** (Power BI)
+<img width="885" height="519" alt="Sport Sales Performance Dashboard 1" src="https://github.com/user-attachments/assets/4b805f59-120a-4c38-9e29-ae14919acedb" />
+<img width="892" height="512" alt="Sport Sales Performance Dashboard 2" src="https://github.com/user-attachments/assets/3c877588-3af1-4e89-b2c9-4d20637ff3dc" />
+<img width="896" height="512" alt="Sport Sales Performance Dashboard 3" src="https://github.com/user-attachments/assets/1284e471-5502-4b96-843d-ff90794d2dfe" />
+<img width="890" height="505" alt="Sport Sales Performance Dashboard 4" src="https://github.com/user-attachments/assets/5aef003f-6a51-46bc-830a-0675ee643889" />
+
+**Variance Analysis Dashboard** (POWER BI)
+<img width="923" height="511" alt="Variance Analysis Dashboard 1" src="https://github.com/user-attachments/assets/589e346c-9931-48c6-9940-817febb94dac" />
+<img width="919" height="503" alt="Variance Analysis Dashboard 2" src="https://github.com/user-attachments/assets/611fc7a1-5e94-4168-95fd-95dc3091c7bc" />
+
 
 
 
