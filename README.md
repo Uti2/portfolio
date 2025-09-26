@@ -85,7 +85,7 @@ https://yid.fmyd.gov.ng/dashboard-test/
 **Variance Analysis Dashboard** (POWER BI)
 <img width="923" height="511" alt="Variance Analysis Dashboard 1" src="https://github.com/user-attachments/assets/589e346c-9931-48c6-9940-817febb94dac" />
 <img width="919" height="503" alt="Variance Analysis Dashboard 2" src="https://github.com/user-attachments/assets/611fc7a1-5e94-4168-95fd-95dc3091c7bc" />
-**Hospital Patient Admission Dashboard** (POWER BI)
+**Hospital Patient Admissions and Diagnosis Analysis Dashboard** (POWER BI)
 ![Upd  Hospital Dashboard](https://github.com/user-attachments/assets/12502cf4-7a11-4410-afc5-c9a93fd4852b)
 **Variance and Performance Analysis Dashboard** (POWER BI)
 ![Oil Rig Proj Dashboard UPD](https://github.com/user-attachments/assets/f125ba4f-0b00-4f5a-b892-372f5aaf6116)
