@@ -126,7 +126,7 @@ Feel free to reach out for collaboration or inquiries.
 - 📧 **Email:** prince.utibe@yahoo.com
 - 📞 **Phone:** +2348133856029
 - 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ekongutibe)
-- 🐙 **GitHub:**  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Uti2)
+- 🐙 **GitHub:**  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Uti2/Utibe.git)
 - 🌐 **Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange)](https://uti2.github.io/portfolio/)
 
 Let's connect and create something amazing together!
