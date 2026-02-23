@@ -13,6 +13,8 @@
   <a href="mailto:prince.utibe@yahoo.com.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
   <a href="(https://github.com/Uti2)]"><img src(https://img.shields.io/badge/GitHub-Follow-black)]
 </p>
+
+  
 ## 🚀 About Me 
 Hi! I am Ekong Utibe-obong a skilled data analyst and health analyst with a background in health insurance and underwriting. With an MSc in Statistics and certifications in Data Analytics, Data Science from Japa Global and Skillahead Academy, i leverage data-driven insights to optimize business performance. My passion for healthcare, research, sports and innovation drives my commitment to delivering impactful solutions to organizations.
 ## WHAT I DO
