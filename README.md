@@ -12,7 +12,6 @@
   <a href="[https://linkedin.com/in/ekongutibe]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:prince.utibe@yahoo.com.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
   <a href="[https://github.com/Uti2]"><img src="https://img.shields.io/badge/Github-Contact-black?style=for-the-badge&logo=github"></a>
-</p>
 
   
 ## 🚀 About Me 
