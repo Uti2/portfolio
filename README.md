@@ -97,6 +97,13 @@ https://yid.fmyd.gov.ng/dashboard-test/
 ![Oil Rig Proj Dashboard UPD](https://github.com/user-attachments/assets/f125ba4f-0b00-4f5a-b892-372f5aaf6116)
 **Sales Performance Analysis Dashboard** (POWER BI Project)
 ![ABC Sales Dashboard 2](https://github.com/user-attachments/assets/ac8b89cc-159e-44d5-904b-745af68e3d44)
+**Hospital Patients Records Dashboard** (POWER BI Project)
+<img width="1208" height="689" alt="WhatsApp Image 2025-11-17 at 22 33 57" src="https://github.com/user-attachments/assets/5e0e419c-6634-4748-9ac2-8e65ca65e423" />
+**Loan Prediction Dashboard** (POWER BI PROJECT)
+<img width="861" height="480" alt="WhatsApp Image 2026-03-26 at 12 24 08" src="https://github.com/user-attachments/assets/f3e2a64b-ae4f-487c-a8a6-cdbc9d314c93" />
+<img width="862" height="480" alt="WhatsApp Image 2026-03-25 at 15 43 44" src="https://github.com/user-attachments/assets/46ddfd08-49f0-4beb-be3c-481855258aa4" />
+
+
 
 
 
